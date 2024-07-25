@@ -1,0 +1,10 @@
+@import url("styles/header.css");
+
+
+:root{
+    --cor-de-fundo: rgb(167, 115, 162);
+    --cor-do-cabecalho: rgb(117, 67, 112);
+    --cor-do-menu: rgb(146, 70, 138);
+}
+body{background-color: var(--cor-de-fundo);}
+
